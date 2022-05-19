@@ -15,6 +15,7 @@ Básicamente, cualquier paquete instalado, se almacena dentro de la carpeta node
 
 
 Pruebas:
-<img src="/IMG/postman.PNG" alt="My cool logo"/>
 
-<img src="/IMG/QUESTIONARIO.PNG" alt="My cool logo"/>
+<img src="IMG/postman.PNG" alt="postman"/>
+
+<img src="IMG/QUESTIONARIO.PNG" alt="questionario"/>
