@@ -12,3 +12,10 @@ Básicamente, cualquier paquete instalado, se almacena dentro de la carpeta node
 **req**: este parámetro es la solicitud entrante. Contiene los encabezados de solicitud y la dirección URL de llamada. Es posible que también tenga un cuerpo de datos si el cliente ha enviado datos con su solicitud.
 **res**: este parámetro es una secuencia de respuesta. Use esta secuencia para escribir información como encabezados y datos que quiera devolver al cliente que realiza la llamada.
 **next**: este parámetro indica que la solicitud es correcta y que está listo para procesarla. Si no se llama a next(), se detiene el procesamiento de la solicitud. Además, es una buena práctica indicar al cliente por qué no se procesa la solicitud, por ejemplo, llame a res.send('<especifique un motivo por el que se detiene la solicitud>').
+
+
+Pruebas:
+
+<img src="../a/postman.PNG" alt="My cool logo"/>
+
+<img src="../a/QUESTIONARIO.PNG" alt="My cool logo"/>
